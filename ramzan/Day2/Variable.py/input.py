@@ -1,5 +1,0 @@
-a = int (input ("ENTER THE 1 NUMBER : "))
-b = int (input ("ENTER THE 2 NUMBER : "))
-print ( "Number 1 is : " , a )
-print ( "Number 2 is : " , b )
-print ( "sum is : " , a + b )
